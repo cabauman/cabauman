@@ -3,9 +3,9 @@
 - :telescope: I’m Colt Bauman
 - :earth_asia: Born and raised in Texas, but have been living in South Korea since 2013
 - :seedling: First language: C++
-- :crystal_ball: C#, Rx.NET, Unity, Geometric Algebra enthusiast
-- :bulb: Love working on C# source generators these days 
-- :computer: 6 years of professional software engineering experience, 12 years total
+- :crystal_ball: Enthusiast of: C#, Rx.NET, Unity, Geometric Algebra
+- :bulb: Love working on C# source generators these days
+- :computer: 7 years of professional software engineering experience, 13 years total
 - :satellite: Secret passion: the universe. I regularly watch cosmology documentaries on YouTube.
 - :video_camera: YouTube channel: https://youtube.com/GameConstructor
 - :package: Nuget packages: https://www.nuget.org/profiles/cab452005
