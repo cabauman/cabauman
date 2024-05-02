@@ -5,7 +5,7 @@
 - :seedling: First language: C++
 - :crystal_ball: Enthusiast of: C#, Rx.NET, Unity, Geometric Algebra
 - :bulb: Love working on C# source generators these days
-- :computer: 7 years of professional software engineering experience, 13 years total
+- :computer: 8 years of professional software engineering experience, 14 years total
 - :satellite: Secret passion: the universe. I regularly watch cosmology documentaries on YouTube.
 - :video_camera: YouTube channel: https://youtube.com/GameConstructor
 - :package: Nuget packages: https://www.nuget.org/profiles/cab452005
